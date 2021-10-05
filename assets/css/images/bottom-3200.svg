@@ -4,8 +4,8 @@
 		line { stroke-width: 1px; }
 		line.upper { stroke: rgba(224,224,224,0.75); }
 		line.lower { stroke: rgba(224,224,224,0.75); }
-		polygon.one { fill: #f8f8f8; }
-		polygon.two { fill: #ffffff; }
+		polygon.one { fill: #201e50; }
+		polygon.two { fill: rgba(246, 247, 248, 0.833); }
     ]]></style>	
     
 	<!-- Backgrounds -->
