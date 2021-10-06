@@ -4,7 +4,7 @@
 		line { stroke-width: 1px; }
 		line.upper { stroke: rgba(224,224,224,0.15); }
 		line.lower { stroke: rgba(224,122,122,0.75); }
-		polygon.one { fill: #201e50; }
+		polygon.one { fill: #101e50; }
 		polygon.two { fill: rgba(246, 247, 248, 0.833); }
     ]]></style>	
 
