@@ -2718,7 +2718,7 @@ input, select, textarea {
 	}
 
 		#header:before, #header:after {
-			background: rgba(224, 224, 224, 0.75);
+			
 			content: '';
 			left: 50%;
 			position: absolute;
@@ -2797,9 +2797,8 @@ input, select, textarea {
 
 	#footer {
 		background-attachment: scroll;
-		background-color: #525b76;
-		background-image: url("images/bottom-3200.svg"), url("images/HeaderPersonal.png");
-		
+		background-color: #292538;
+		background-image: url("images/bottom-3200.svg"), url("images/PersonalHeader.png");
 		background-position: top center;
 		background-repeat: repeat-x;
 		background-size: 3200px 460px;
@@ -2925,7 +2924,7 @@ input, select, textarea {
 
 		#main header.major,
 		#main footer.major {
-			background: rgba(196, 241, 190, 0.75);
+			background: rgba(255, 232, 214, 0.55);
 		}
 
 /* Wide */
